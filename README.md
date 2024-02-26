@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full Stack Developer<br>🔭 Jobber nå med BakkaCoin<br>🌱 Lærer React Native <br>👀 Er på utkikk etter nye muligheter
+🚀 Full Stack Developer<br>🔭 Working on website projects and an indie game<br>🌱 Learning Godot <br>👀 Er på utkikk etter nye muligheter
 
 
 <br> <br>
