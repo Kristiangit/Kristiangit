@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full Stack Developer<br>🔭 Working on website projects and an indie game<br>🌱 Learning Godot <br>👀 Er på utkikk etter nye muligheter
+🚀 Full Stack Developer<br>🔭 Working on website projects and an indie game<br>👀 Looking for new opportunities
 
 
 <br> <br>
@@ -15,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kristiangit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kristiangit&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kristiangit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kristiangit&icon=5&color=6)](https://visitcount.itsvg.in)
